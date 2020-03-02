@@ -22,7 +22,7 @@ foo:
 main:
   - title: "技术博客"
     url: /docs/01-quick-start-guide/
-  - title: "About"
+  - title: "测试2"
     url: /docs/01-quick-start-guide.md/
   - title: "Sample Posts"
     url: /year-archive/
