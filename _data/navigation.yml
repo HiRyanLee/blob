@@ -22,15 +22,12 @@ foo:
 main:
   - title: "技术博客"
     url: /docs/01-quick-start-guide/
-  - title: "测试2"
+  - title: "游记"
     url: /docs/01-quick-start-guide.md/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Terms &amp; Privacy Policy"
-    url: /terms/
 
+
+sidebar:
+  nav: "docs"
 
 # documentation links
 docs:
