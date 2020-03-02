@@ -21,9 +21,9 @@ foo:
 # main links
 main:
   - title: "技术博客"
-    url: /docs/01-quick-start-guide/
+    url: /docs/quick-start-guide/
   - title: "游记"
-    url: /docs/01-quick-start-guide.md/
+    url: /docs/quick-start-guide.md/
 
 # documentation links
 docs:
