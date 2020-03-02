@@ -25,10 +25,6 @@ main:
   - title: "游记"
     url: /docs/01-quick-start-guide.md/
 
-
-sidebar:
-  nav: "docs"
-
 # documentation links
 docs:
   - title: Getting Started
